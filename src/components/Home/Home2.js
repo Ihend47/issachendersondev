@@ -17,7 +17,11 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
+<<<<<<< HEAD
               DEVOPS IS MY <span className="purple">JAM!</span> 
+=======
+              DEVOPS IS MY <span className="purple">SUPERPOWER</span> 
+>>>>>>> 9694b2d03a0894684aa9db74a896b464e49e97bd
             </h1>
             <p className="home-about-body">
               My passion for cloud and DevOps fuels my drive to build innovative solutions. I bring a strong foundation in network administration to the table, ensuring a smooth and optimized experience.  
