@@ -17,11 +17,11 @@
 ## TL;DR
 
 <<<<<<< HEAD
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ihend47](https://github.com/Ihend47/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ihend47](https://github.com/Ihend47/Portfolio]. Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://issachendersondev.com/" target="_blank">[https://issachendersondev.com/}</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://issachendersondev.com/" target="_blank">[https://issachendersondev.com/]</a> which features some of my github projects as well as my resume and technical skills.<br/>
 =======
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ihend47](https://github.com/ihend47/Portfolio). Thanks!
 
