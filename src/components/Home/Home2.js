@@ -17,10 +17,14 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
+<<<<<<< Updated upstream
               DEVOPS IS MY <span className="purple">JAM!</span> 
+=======
+            Infrastructure & <span className="purple">Security</span> 
+>>>>>>> Stashed changes
             </h1>
             <p className="home-about-body">
-              My passion for cloud and DevOps fuels my drive to build innovative solutions. I bring a strong foundation in network administration to the table, ensuring a smooth and optimized experience.  
+            I'm passionate about leveraging cloud technology and DevOps to build reliable, efficient, and secure solutions. My background in network administration, coupled with CompTIA Security+ and CySA+ certifications, strengthens my ability to deliver effective results that prioritize the protection of sensitive data and infrastructure.
               <br />
               <br />
               <b>Key Skills:</b>
