@@ -8,9 +8,9 @@
 
 <br/>
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ihend47/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/ihend47/Portfolio/issues">Request Feature</a>
 >>>>>>> 9694b2d03a0894684aa9db74a896b464e49e97bd
 </h3>
 
@@ -23,11 +23,11 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 My personal portfolio <a href="https://issachendersondev.com/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 =======
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ihend47](https://github.com/ihend47/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://ihend47.vercel.app/" target="_blank">ihend47.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 >>>>>>> 9694b2d03a0894684aa9db74a896b464e49e97bd
 
 This project was built using these technologies.
