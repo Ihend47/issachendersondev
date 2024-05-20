@@ -1,53 +1,18 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://catnip-moustache-356.notion.site/Portfolio-Blog-28e81ca52dc54445900249fe715c5dfc" target="_blank">https://www.issachendersondev.com/</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Portfolio Website - v2.0
 
-<br/>
-<<<<<<< Updated upstream
-=======
+[Live Demo](https://www.issachendersondev.com/)
 
-<h3 align="center">
->>>>>>> Stashed changes
-    🔹
-    <a href="https://github.com/ihend47/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-<<<<<<< Updated upstream
-    <a href="https://github.com/ihend47/Portfolio/issues">Request Feature</a>
->>>>>>> 9694b2d03a0894684aa9db74a896b464e49e97bd
-=======
-    <a href="https://github.com/Ihend47/Portfolio.git">Request Feature</a>
->>>>>>> Stashed changes
-</h3>
+![Demo](./Images/readme-img1.png)
 
 ## TL;DR
 
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ihend47](https://github.com/Ihend47/Portfolio]. Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://issachendersondev.com/" target="_blank">[https://issachendersondev.com/]</a> which features some of my github projects as well as my resume and technical skills.<br/>
-=======
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ihend47](https://github.com/ihend47/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://ihend47.vercel.app/" target="_blank">ihend47.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
->>>>>>> 9694b2d03a0894684aa9db74a896b464e49e97bd
-=======
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ihend47](https://github.com/Ihend47/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://issachendersondev.com/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
->>>>>>> Stashed changes
+My personal portfolio [https://www.issachendersondev.com/](https://www.issachendersondev.com/) which features some of my GitHub projects as well as my resume and technical skills.
 
-This project was built using these technologies.
+This project was built using these technologies:
 
 - React.js
 - Node.js
@@ -58,29 +23,27 @@ This project was built using these technologies.
 
 ## Features
 
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+- **Multi-Page Layout**
+- **Styled with React-Bootstrap and CSS with easy-to-customize colors**
+- **Fully Responsive**
 
 ## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## 🛠 Installation and Setup Instructions
+## Installation and Setup Instructions
 
 1. Installation: `npm install`
-
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Open the project folder and navigate to `/src/components/`.
+You will find all the components used, and you can edit your information accordingly.
 
-### 
+## Report Bug or Request Feature
+
+Feel free to report any bugs or request new features by opening an issue [here](https://github.com/ihend47/Portfolio/issues).
